@@ -1,0 +1,15 @@
+#show-tasks {
+  display: none;
+}
+
+.taskName {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
+#tasks {
+  list-style: none;;
+}
